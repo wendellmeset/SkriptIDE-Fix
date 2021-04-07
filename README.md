@@ -2,7 +2,8 @@
 Fixes the bug when launching Skript IDE!
 
 There is a bug in Skript IDE when launching that looks like this:
-```OS: Windows 10 amd64
+```
+OS: Windows 10 amd64
 Java: 1.8.0_191-b12
 SK-IDE version: 2019.1u4
 Time: 5.4.2021 14:38:39
