@@ -26,5 +26,5 @@ This github project is a fix for it.
 - 1: Download the file called update.bat thats in the releases tab of this repository
 - 2: Download the file called skide_win_x64.exe thats in the releases tab of this repository
 - 3: Put both of those files into the installation directory of Skript IDE
-- 4: open the file called update.bat
+- 4: Run the file called update.bat
 - 5: your done, now launch Skript IDE and the error should be fixed!
